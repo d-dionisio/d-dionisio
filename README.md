@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Douglas Dionísio 👋
 
-<!--
-**d-dionisio/d-dionisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About 📄
+I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) 🚀.
 
-Here are some ideas to get you started:
+#### Main Skills 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡️ Main language: 'Javascript'
+- 🔍️ Backend: 'Nodejs'
+- 🎉 Frontend: 'Reactjs', 'HTML5', 'CSS3'
+- 🎨 Layout Desing: 'Figma'
+- 📦️ Version code control: 'Git & GitHub'
+- 🔨 Tools: 'VsCode', 'Markdown'
+
+#### Contact 🌐
+
+- 📝 Email: douglas.sdionisio@gmail.com
+- 👷 LinkedIn: www.linkedin.com/in/douglas-dionisio
