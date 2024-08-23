@@ -5,11 +5,11 @@ I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://w
 
 #### Main Skills 🧑‍💻
 
-- ⚡️ Main language: 'Javascript'
-- 🔍️ Backend: 'Nodejs'
-- 🎉 Frontend: 'Reactjs', 'HTML5', 'CSS3'
+- ⚡️ Main language: 'Python'
+- 🔍️ Backend: 'PHP', 'Nodejs'
+- 🎉 Frontend: 'JavaScript', Reactjs', 'HTML5', 'CSS3'
 - 🎨 Layout Desing: 'Figma'
-- 📦️ Version code control: 'Git & GitHub'
+- 📦️ Version code control: 'Git & GitHub', 'BitBucket'
 - 🔨 Tools: 'VsCode', 'Markdown'
 
 #### Contact 🌐
