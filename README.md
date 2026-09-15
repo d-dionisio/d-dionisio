@@ -1,11 +1,11 @@
 ### Hi there, I'm Douglas Dionísio 👋
 
 #### About 📄
-I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) 🚀.
+I'm a Web Developer. 🚀
 
 #### Main Skills 🧑‍💻
 
-- ⚡️ Main language: 'Python'
+- ⚡️ Main language: 'Golang'
 - 🔍️ Backend: 'PHP', 'Nodejs'
 - 🎉 Frontend: 'JavaScript', Reactjs', 'HTML5', 'CSS3'
 - 🎨 Layout Desing: 'Figma'
